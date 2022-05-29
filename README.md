@@ -3,7 +3,7 @@ Projeto - Gerador de Tabuada
 </h1>
  
  <p align="center">
- Gerador de tabuada feito em <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong> <strong>FOR</strong>. Desenvolvido por <a target="_blank" rel="external" href="https://github.com/juliobaccin/"><strong>Julio Cesar Baccin</strong></a>
+ Gerador de tabuada feito em <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong> <strong></strong>. Desenvolvido por <a target="_blank" rel="external" href="https://github.com/juliobaccin/"><strong>Julio Cesar Baccin</strong></a>
  </p>
 
 <p align="center">
