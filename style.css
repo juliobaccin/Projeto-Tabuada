@@ -255,6 +255,8 @@ footer p a:hover {
     #seltab {
         font-size: 12pt;
         padding: 5px;
+        width: 130px;
+        height: 203px;
     }
 
 }
